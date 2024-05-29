@@ -8,6 +8,8 @@
 
 ## Credit Risk Analysis Report
 
+---
+
 **Analysis Purpose**
 
 The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the credit worthiness of potential borrowers from peer-to-peer lending services.  
@@ -21,5 +23,7 @@ The purpose of this analysis is to create and evaluate the accuracy of a data mo
 ---
 
 ## Summary 
+
+---
 
 
