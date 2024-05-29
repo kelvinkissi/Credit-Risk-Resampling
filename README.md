@@ -6,11 +6,11 @@
 
 Credit Risk Analysis Report 
 
-## Analysis Purpose:
+**Analysis Purpose**
 
 The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the credit worthiness of potential borrowers from peer-to-peer lending services.  
 
-## Description of Machine Learning Model:
+**Description of Machine Learning Model**
 
 - Accuracy Score
 - Precision Score
