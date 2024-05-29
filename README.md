@@ -6,7 +6,7 @@
 
 ---
 
-##Credit Risk Analysis Report
+## Credit Risk Analysis Report
 
 **Analysis Purpose**
 
