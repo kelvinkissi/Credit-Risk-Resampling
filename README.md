@@ -7,7 +7,8 @@
 ---
 
 **Background** In this project, I’ll use various techniques to train and evaluate a model based on loan risk. I’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
-Machine Learning models include Logistic Regression, Balanced Random Forest and EasyEnsemble, and a variety of re-sampling techniques are used (Oversampling/SMOTE, Undersampling/Cluster Centroids, and SMOTEENN) to re-sample the data.
+
+I will be using Machine Learning models that include Logistic Regression, Balanced Random Forest, and a variety of re-sampling techniques are used (Oversampling) to re-sample the data.
 
 ---
 
