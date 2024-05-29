@@ -17,3 +17,9 @@ The purpose of this analysis is to create and evaluate the accuracy of a data mo
 - Accuracy Score: "95.20%" Meaning we are taking into account the sensitivity (recall and/or true positive rate) and specificity (true negative rate) of the model. 
 - Precision Score: "92%" Meaning the predicted positives were 92 percent correct.
 - Recall Score: "95%" Meaning the model was 95 percent precise in measuring the true positive values of the predictions made.
+
+---
+
+## Summary 
+
+
