@@ -2,7 +2,7 @@
 
 ---
 
-![](./Credit-Risk-Resampling/Resources/Loan.png)
+![](Credit-Risk-Resampling/Resources/Loan.png)
 
 ---
 
