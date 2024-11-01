@@ -30,6 +30,15 @@ The purpose of this analysis is to create and evaluate the accuracy of a data mo
 
 ---
 
+
+<div align="center">
+   
+   [Source Code](https://github.com/kelvinkissi/Credit-Risk-Resampling/blob/main/.ipynb_checkpoints/credit_risk_resampling-checkpoint.ipynb)
+   
+</div>
+
+---
+
 ## Summary 
 
 ---
