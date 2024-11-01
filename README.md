@@ -1,5 +1,7 @@
 # Credit Risk Resampling 
 
+*by KELVIN KISSI*
+
 ---
 
 ![](./Resources/Loan.png)
